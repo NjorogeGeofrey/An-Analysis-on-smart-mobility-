@@ -1,8 +1,8 @@
-Smart Mobility Analysis - README
-Overview:
+
+# Overview:
 This analysis focuses on exploring smart mobility patterns based on demographic and smartphone usage data. The dataset used contains information about individuals' demographics, smartphone app usage frequency, and smart mobility adoption. The analysis is conducted using R programming language, incorporating libraries such as tidyverse, ggplot2, skimr, and DataExplorer for efficient data manipulation, visualization, and exploratory data analysis (EDA).
 
-Data Preparation:
+## Data Preparation:
 Load Required Libraries:
 
 library(readr)
